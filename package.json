@@ -1,0 +1,9 @@
+{
+  "name": "keystone-auth-app",
+  "version": "1.0.0",
+  "description": "a simple keystone app with auth",
+  "main": "index.js",
+  "repository": "https://github.com/kharioki/Keystone-app-with-auth",
+  "author": "kharioki",
+  "license": "MIT"
+}
